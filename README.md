@@ -1,3 +1,3 @@
-# Heatrow
+# Genco
 
-This is a really simple landing page for an real estate company.
+Simple Landing Page Groupe Immo. Genco
