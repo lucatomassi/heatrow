@@ -296,7 +296,7 @@ const index: React.FC<indexProps> = ({}) => {
       <footer data-scroll-section className='footer'>
         <div className='footer__container'>
           <div className='footer__top'>
-            <h2 className='heading-2 heading-2__sub'>Book Consultation</h2>
+            <h2 className='heading-2 heading-2__sub'>Book a Visit</h2>
             <form className='contact-form'>
               <div className='contact-form__left'>
                 <input type='text' placeholder='enter your name' />
